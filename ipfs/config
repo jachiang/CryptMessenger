@@ -1,0 +1,25 @@
+{
+  "Addresses": {
+    "Swarm": [
+      "/ip4/127.0.0.1/tcp/1338"
+    ],
+    "API": "/ip4/127.0.0.1/tcp/5002",
+    "Gateway": "/ip4/127.0.0.1/tcp/9090"
+  },
+  "Discovery": {
+    "MDNS": {
+      "Enabled": true,
+      "Interval": 10
+    },
+    "webRTCStar": {
+      "Enabled": true
+    }
+  },
+  "Bootstrap": [
+    "/ip4/94.16.172.45/tcp/4001/ipfs/QmYynHGE6ry2oJpPpqrxU3wZBG2hthMSUCpJUi3b3MuexU"
+  ],
+  "Identity": {
+    "PeerID": "QmTLAAnZkNjpsKiQz4R2aNhakzsakxYvSXykfoVNc8J2dc",
+    "PrivKey": "CAASqQkwggSlAgEAAoIBAQClWBVFq8PGvsmdO2n57Et/FG/o3W0wwsj2041QhJ3D0oDXNQLXm3bwDtZK7RDduZttEQzYF5vL/w8jyAa6d2iqh4h4GJ9QOG13ejFPzoUcY0blj80/uJ/5y5MbC7ARw8YMrmSsfwScHYOiBedxiPHwqRmZAV6K9nVdU/Fu2hNATNcxyWoLnNctZoxrIDqGItAVu/zqRJgz5VApMN29roa9d7E3HUdNLoNoEhV8DRw/x6+gL48NJ9UeD/k9kIvpwKVEs9ti12qaA5jik3nqoIxdr7eItwkfP/JusOXyxROok4lgzK06QN+RXSJjZ/7y9PPj2xw7ETkx5CrK0YubByafAgMBAAECggEAJiV8Quat9FxwB2Z9vLtXb6o3Z3IujuFhnBCSudDe1R7rurrwPO4RMrE5n2+yRHVd9nvIitJnj1j5FThA1SRXcYBza8HCf6+FEduPJOpwq2v8H1pd8CWYQvlEpyi7Jl4Ugzh44ZMsbRgiFm9mRjtiFjPtQ++c8FKMIUwMl5aYemzg25yWOgbva30kgHiF+uqPNHcIggDuZ8qSRWY7/AdPSu+UiUQG2fa/5gekXKcSJmQylYRIlaoxL9XEBUFgEbWHxer6fGy03afb7Fid52MVmLVVLxZU0HuvsM6uKR7xbhO71H+pf1DfMy4vq6oSYCLmoNBAGjG01JjpoWYO44U2gQKBgQDa4r4K/JmrFoiNqcLJQ4Fq403Tv530mVkN6GGD5L2Id0pCfdpycRdjI4q8dERtojMyNAD7SNxf8aprwAt30rjypsU2r4jipjDrXnpOFK66Tc46nL6xTjjfs8YLE4ZaXqgSj+vf3hzL9i3G5te8rtDnB8L+JCXDZpIhe6wVOzkNQwKBgQDBYTzqMGGOYoGeWwPvtkuepOpItXZpe8jFGR1YubtvM4EmPmYL4udH36BdkB+pPZL7xKZY0CrVcaEV1kiT5vxuKAtaE+VmdNOZZfOdElalb1LCd9SEq6KRB1awwCP/OzQrGHjPi19tv0JFpdifSGLIzRQJ3bq2+WldHQkDWcaddQKBgQCOmy+J5O0RRIsPEM0xZ2PICfPIw4zbsZUNtJrj3YGGiYG+NFTAPuIn2x4mjfGPJCAK00rYbK33bHHF5ccS+B07KmBOsqqSUAiLMHCqslrsUojMMxciWX5AcNXUnZHpCsah4Vah8gn88JT+g6OG8LZ17t6hyVc5KXiHjBWfd4hCFQKBgQCqEDzE68VvtZuuSvacQmIgY4ISbVt0isLW6y5O0BBRTCdBHdEalPK216itf8kISjlQJvHv2ypASczTan6ra5EFwzuwfRzaTNWl6u4ibXU7yjorAb0o69Rs3NpVWLSPil5no/7i7vv+hRvgKmjmM3+Efi4oOxIwRgluNNGvW6163QKBgQDCDp8/SgHI78TE//wyO8+2YH807CtZ8ETQUTVc4EXmq0LPgq+hq7BEOXFupv9TD9lQlyw/a8G3nb//Ndg3PGS10PXjMDVOH9YDb6gyE5EXS5ekQL2lJz84RD6GikPlJcvC9M8VcHTXODc8rR7XZfuwg3kWvnIxNI31gARK3P3NaA=="
+  }
+}
